@@ -1,0 +1,34 @@
+# Dataset
+dataset/
+data/
+
+# Pretrained models
+bert-base-uncased/
+gpt2/
+
+# Embeddings
+Embeddings/
+
+# Experiment outputs
+Results/
+logs/
+checkpoints/
+test_results/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Python
+*.pyc
+__pycache__/
+*/__pycache__/
+
+# IDE
+.idea/
+.vscode/
+
+# System
+.DS_Store
