@@ -49,6 +49,8 @@ We extend our heartfelt appreciation to the following GitHub repositories for pr
 
 * https://github.com/MAZiqing/FEDformer
 
+* https://github.com/YoZhibo/MSGNet
+
 * https://github.com/ts-kim/RevIN
 
 * https://github.com/timeseriesAI/tsai
