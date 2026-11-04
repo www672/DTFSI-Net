@@ -6,7 +6,7 @@
 DTFSI-Net is a Decomposition-Driven Temporal-Frequency-Semantic Interaction Network for long-term time series forecasting. Real-world time series mix long-term trends, periodic patterns and local variations, and naive cross-modal fusion between time series and text often fails to align semantic information with different temporal patterns and leads to representation redundancy. Our model decomposes trend and periodic components using moving average decomposition and a learnable cyclic queue, leverages text-generated gating for trend enhancement, and adopts a Fourier-based frequency branch with textual semantic modulation. An adaptive gate fuses time- and frequency-domain features, and cross-modal attention builds associations between numerical and textual representations. 
 
 <p align="center">
-<img src=".\images\FIGURE 2.png" width = "700" alt="" align=center />
+<img src=".\images\Figure 2.png" width = "700" alt="" align=center />
 <br><br>
 </p>
 
