@@ -15,9 +15,8 @@ DTFSI-Net is a Decomposition-Driven Temporal-Frequency-Semantic Interaction Netw
 To get started, ensure you have Conda installed on your system and follow these steps to set up the environment:
 
 ```
-conda create -n DTFSINet python=3.10
+conda env create -f env_windows.yaml
 conda activate DTFSINet
-pip install -r requirements.txt
 ```
 
 ## Data Preparation
